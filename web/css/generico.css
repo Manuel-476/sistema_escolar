@@ -1,0 +1,35 @@
+body{background-color: #ff6633;
+width:80%;
+margin:auto;}
+form{display:flex;
+      justify-content:space-evenly;}
+form input{width:30%;
+            padding:10px;
+            background-color: #ffcc99;
+            color:black;}
+
+form select{width:30%;
+            padding:10px;
+            background-color: #ffcc99;
+            color:black;}
+form button{width:30%;
+            padding:10px;
+            background-color: #cc0033;
+            color:white;}
+form botao{width:30%;
+            padding:10px;
+            background-color: #cc0033;
+            color:white;}
+h1{color:white;
+   text-align: center;
+}
+span a{         display:display-block;
+            width:30%;
+            padding:10px;
+            background-color: #cc0033;
+            color:white;}
+table{border:1px solid black;border-spacing: 0px;text-align: center;margin:auto;width:100%;}
+table tr td{border:1px solid black;border-spacing: 0px;text-align: center;background-color: #ffcc99;color:black;}
+table thead th{border:1px solid black;border-spacing: 0px;text-align: center;background-color:#cc0033;color:#fff; }
+.volta{text-align:center;}
+

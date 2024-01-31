@@ -1,0 +1,205 @@
+
+section{	
+		width: 87.5%;
+		height: 89.0%;
+    	box-shadow: 0 0 20px #CCC;
+}
+nav{
+    	width: 100%;
+    	height: 5.5%;
+    	background: #F0F0F0;
+}
+#menu{
+	width: 100%;
+	height: 100%;
+	background: #F0F0F0;
+}
+.iten{
+    width: 10%;
+    height: 100%;
+	color: #0F0F0F;
+	background: #F0F0F0;
+	border-left: 1px solid #FFF;
+	font-family: sans-serif;
+	font-size: 80%;
+	float: left;
+}
+.iten:hover{
+	cursor:pointer;
+	background: #2980B9;
+	color: #FFF;
+}
+a{
+	color: #000;
+	padding: 5% 0% 0% 0%;
+	text-decoration: none;
+	display: inline;
+}
+#l1{
+    margin: 0% 0% 0% 0%;
+	border-left: none;
+}
+#l2{
+   	margin: 0% 0% 0% 0.0%;
+}
+#l3{
+   	margin: 0% 0% 0% 0.0%;
+}
+#iten1{
+    margin: 0% 0% 0% 0%;
+	text-decoration: none;
+}
+#iten2{
+    margin: 0% 0% 0% 0%;
+	text-decoration: none;
+}
+#iten3{
+    margin: 0% 0% 0% 0%;
+	text-decoration: none;
+}
+
+/*rodape*/
+footer {
+	width: 100%;
+	height: 5.5%;
+	background: #2980B9;
+}
+#_title1 {    
+    margin: 0.9% 0% 0% 0.9%;
+    font-size: 83%;
+	float: right;
+	color: #FFF;
+}
+#_title2 {	   
+    margin: 0.9% 1.0% 0% 0.3%;
+	color: #2980B9;
+	font-size: 83%;
+	float: right;
+	
+}
+#_title1,#_title2:hover {
+    cursor:pointer;
+}
+
+/*top*/
+header {
+    width: 100%;
+	height: 5.5%;
+	background: #2980B9;
+}
+#title1 {
+    margin: 0.9% 0% 0% 0.9%;
+    font-size: 83%;
+    color: #FFF;
+	float: left;
+}
+#title2 {	
+    margin: 0.9% 0% 0% 0.3%;
+	font-size: 83%;
+	float: left;
+	color: #FFF;
+}
+#title1,#title2:hover {
+    cursor: pointer;
+}
+
+/*outro*/
+*
+{
+	margin:0;
+	padding:0;
+}
+.txt
+{
+	font-size: 83%;
+	font-family: sans-serif;
+}
+
+/*cadastro*/
+section{	
+	width: 87.5%;
+	height: 89.0%;
+    box-shadow: 0 0 20px #CCC;
+}
+#l1{
+    width: 50.0%;
+    height: 100%;
+	border-right: 1px #F0F0F0 solid;
+	float:left;
+}
+#cad_aln{
+	background: #F0F0F0;
+	width: 100.0%;
+    height: 5.0%;
+	float:left;
+}
+#btn1{
+	width: 7.5%;
+	height: 100%;
+	color: #0F0F0F;
+	margin: 0% 3.5% 0% 0%;
+	outline: none;
+	border: none;
+	float: right;
+}
+#txt_leg1{
+	font-family: sans-serif;
+	font-size: 80%;
+}
+.ipt{
+	border: 1px solid #F0F0F0;
+	padding: 0% 0% 0% 2%;
+	background: #FFF;
+	outline: none;
+    height: 5.5%;
+}
+#ipt1{
+	width: 45%;
+	margin: 5% 0% 0% 0%;
+}
+#ipt2{
+	width: 45%;
+	margin: 5% 0% 0% 0%;
+}
+#ipt3{
+	width: 45%;
+	margin: 1.0% 0% 0% 0%;
+}
+#ipt4{
+	width: 45%;
+	margin: 1.0% 0% 0% 0%;
+}
+#ipt5{
+	width: 45%;
+	margin: 1.0% 0% 0% 0%;
+}
+#ipt6{
+	width: 45%;
+	margin: 1.0% 0% 0% 0%;
+}
+#ipt7{
+	width: 45%;
+	margin: 1.0% 0% 0% 0%;
+}#ipt8{
+	width: 45%;
+	margin: 1.0% 0% 0% 0%;
+}
+#btn2{
+	width: 20%;
+	height: 5%;
+	margin: 1.0% 4.5% 0% 0%;
+	background: #2980B9;
+	color: #FFF;
+	outline: none;
+	border: none;
+	float: right;
+}
+#l2{
+    width: 50.0%;
+    height: 100%;
+	float:right;
+}
+table tr td{border-box:1px solid black;
+         border-spacing: 0px;
+         text-align: center;
+        }
